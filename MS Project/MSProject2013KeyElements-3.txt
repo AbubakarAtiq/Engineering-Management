@@ -1,0 +1,10 @@
+KEY elements in MS Project 2013
+---------------------------------------
+1. Resources
+2. Allocation.
+3. Scheduling.
+4. Predecessor and successor.
+5. Gant Chart.
+6. Critical Path.
+---------------------------------------
+https://www.youtube.com/watch?v=tZ_GmIsWhlM&list=PLWPirh4EWFpFQimHjZvhuAN4GF6XYC-qM&index=3

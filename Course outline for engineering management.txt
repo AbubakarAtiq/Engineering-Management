@@ -1,0 +1,84 @@
+Proposed management science electives:
+1. Principles of management.
+2. Engineering management.
+3. Engineering Economics.
+4. Engineering Project Management.
+5. Entrepreneurship.
+6. Leadership and personal grooming.
+_________________________________
+Engineering Project Management:
+Course learning outcomes:
+1. Understand a sustainable lifestyle and why a sustainable society is important for the environment.
+2. Compare competency in various project management knowledge areasm including, Risk, Quality,
+Stakeholder, Time and cost management.
+3. Solve the complex tasks of time and cost estimation using project scheduling and controlling
+techniques including critical path method and earned value management.
+4. Integrate various knowledge areas of project management in order to prepare a project plan on a
+simulation level using modern tool e.g. MS Project.
+_________________________________
+Course Outline:
+<Introduction to project management>
+1. Project, program management and project management.
+2. Historical perspective of project management.
+3. Project characteristics, objectives, scope and requirements.
+4. Introduction to existing PM bodies of knowledge.
+<Project Quality management>
+1. History of quality management.
+2. Defining quality.
+3. Relationship Between project management and quality management.
+4. Quality management frameworks.
+<Project Stakeholder management>
+1. The roles of project manager and spoonsor.
+2. Project team selection.
+3. Skills and competencies of project manager.
+4. How to develop and manage project teams successfully.
+5. Stakeholder management.
+<Project cost management>
+1. Cost estimation in projects.
+`	*Cost components in projects and methods for cost estimation in projects.
+2. Cost control in projects.
+	*Estimation of outstanding work.
+	*Engineering Economics (Earned value management)
+<Project HRM and Communication management>
+1. Effective organization and communication.
+2. The emergence of project management in developing company.
+3. Project matrix and project based organizations.
+4. Building and managing effective project team.
+<Project Risk Management>
+1. Definitions and concepts including risk, risk management, business and project risk, probability
+and impact.
+2. Generic risk management processes.
+<Project Time Management>
+1. Introduction to Project Scheduling.
+2. Critical Path Method
+	*Network representation of projects, critical activities, and critical path.
+<Project Scope and integration Management>
+1. Selecting the suitable project for the organization.
+2. Conducting feasibility study.
+3. Phases of Project and the different activities carried out in each phase.
+4. Lifecycle models and examples.
+5. Project management methodologies and processes.
+6. Traditional, structured and agile approach to project delivery.
+<Project Closure>
+1. Project evaluation
+	*Defining project and project management success.
+	*Success critieria for projects.
+	*Project Audits.
+2. Project termination.
+	*When to terminate a project.
+	*The verities of project termination.
+	*The termination process.
+<Environmental and sustainable development projects>
+1. Importance of sustainable development.
+2. Sustainability and project management.
+3. Evaluation of sustainable development projects from various sectors.
+________________________
+Recommended Books:
+1. Project Management: A system approach to planning scheduling and controlling by  Harold
+kerzner, 11th edition, John Willey 2013, ISBN:978-1-118-02227-6.
+2. Project Management: A managerial approach 7th edition, Jack R.Meredith and Samuel J. Mantel,
+Jr. John Wiley and Sons, Inc. Project Management for business.
+3. Engineering and technology: Principles and Practice 3rd, by John M. Nicholas and Herman
+steyn.
+4. Project management: A strategic planning approach by Paul Gardiner, 2nd edition, Palgrave
+Macmillan.

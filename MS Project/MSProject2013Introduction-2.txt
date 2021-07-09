@@ -1,0 +1,12 @@
+------------------------------------
+MS Project 2013 - Introduction
+------------------------------------
+https://www.youtube.com/watch?v=soprnVCDAQk&list=PLWPirh4EWFpFQimHjZvhuAN4GF6XYC-qM&index=2
+=======================
+What is Microsoft Project?
+MS Project, the project management software program by Microsoft, is a very handy tool for
+project managers that helps them develop a schedule, assign resources to tasks, track the progress,
+manage the budget, and analyze workloads for an ongoing project.
+Microsoft Project helps you get started quickly and execute projects with ease. Built-in templates,
+familiar scheduling tools, and access across devices help project managers and teams stay
+productive.

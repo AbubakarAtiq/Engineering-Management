@@ -1,0 +1,23 @@
+MS Project- Course overview
+1. Key Elements.
+2. Task creation.
+3. Predecessors and successor.
+4. WBS or work break down structure.
+5. Calendar.
+6. Critical tasks.
+7. Milestone.
+8. Slack.
+9. Task constraints.
+10. Templates.
+11. Timeline.
+12. Resources.
+13. Earned value analysis.
+14. Task inspector.
+15. Filtering.
+16. Grouping.
+17. Highlighting.
+18. Use of tables.
+19. Cost reports.
+20. Resource reports.
+21. Report organizer.
+https://www.youtube.com/watch?v=AgEIcyvnsCE&list=PLWPirh4EWFpFQimHjZvhuAN4GF6XYC-qM
